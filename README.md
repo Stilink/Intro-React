@@ -1,4 +1,3 @@
-## Honor code
 La presencia de este documento en este repositorio es un compromiso explícito de los colaboradores de seguir el siguiente código de honor:
 
 Código de Honor
